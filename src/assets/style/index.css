@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.todo-item {
+  color: #fff;
+}
+.todo-item.active {
+  background-color: #0c4dde;
+}
